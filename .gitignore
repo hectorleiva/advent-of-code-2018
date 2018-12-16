@@ -3,3 +3,6 @@
 
 # Vim
 *.swp
+
+# Node
+node_modules/
